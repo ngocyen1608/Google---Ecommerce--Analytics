@@ -30,26 +30,31 @@ In this project, I will write 08 query in Bigquery base on Google Analytics data
 ![](https://github.com/user-attachments/assets/63a8a433-6d75-467a-8d9a-912b115029f1)
 ![](https://github.com/user-attachments/assets/836955b7-0b93-4f82-85cd-24a552a14979)
 - Query results
+
 ![](https://github.com/user-attachments/assets/b3aab64b-d2d3-47dc-acde-2e0d3d999a57)
 ### Query 05: Average number of transactions per user that made a purchase in July 2017
 - SQL code
 ![](https://github.com/user-attachments/assets/4af8b0c5-6423-4ac3-a13d-3bf36c0010b2)
 - Query results
+
 ![](https://github.com/user-attachments/assets/9c8f6866-f85d-49d7-ac5e-794f863d0800)
 ### Query 06: Average amount of money spent per session. Only include purchaser data in July 2017
 - SQL code
 ![](https://github.com/user-attachments/assets/68768db2-b6cd-46e8-9a10-fc1b4bdec494)
 - Query results
+
 ![](https://github.com/user-attachments/assets/49006e9b-d113-449c-9785-6cdd7b292540)
 ### Query 07: Other products purchased by customers who purchased product "YouTube Men's Vintage Henley" in July 2017. Output should show product name and the quantity was ordered.
 - SQL code
 ![](https://github.com/user-attachments/assets/60016fa9-41b8-443e-b583-ccee375cd3e9)
 - Query results
+
 ![](https://github.com/user-attachments/assets/0df634d4-1e33-4d23-a201-ac4e8415bd3f)
 ### Query 08: Calculate cohort map from product view to addtocart to purchase in Jan, Feb and March 2017. The output should be calculated in product level.
 - SQL code
 ![](https://github.com/user-attachments/assets/87e7ba1d-06aa-41b6-bf38-1cac0baf4f62)
 - Query results
+
 ![](https://github.com/user-attachments/assets/c7503b9d-50be-4237-bda0-a714462f6b68)
 ## IV. Conclusion
 - In conclusion, my analysis of the eCommerce dataset using SQL queries on Google BigQuery's Google Analytics platform has uncovered numerous significant insights.
